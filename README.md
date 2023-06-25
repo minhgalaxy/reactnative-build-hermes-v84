@@ -3,6 +3,7 @@
 - Step 1:
 ```bash
 git clone https://github.com/minhgalaxy/reactnative-build-hermes-v84.git
+cd reactnative-build-hermes-v84
 ```
 
 - Step 2:
