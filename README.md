@@ -13,7 +13,7 @@ npm install
 
 - Step 3:
 ```bash
-mkdir maps
-mkdir res
 npm run build
 ```
+
+- Step 4: Check `output` directory
