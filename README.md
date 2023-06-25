@@ -13,6 +13,8 @@ npm install
 
 - Step 3:
 ```bash
+mkdir -p output/sourcemaps
+mkdir -p output/res
 npm run build
 ```
 
