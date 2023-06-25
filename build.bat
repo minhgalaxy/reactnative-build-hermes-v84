@@ -1,0 +1,3 @@
+node C:\Users\Admin\Desktop\AwesomeProject3\node_modules\react-native\cli.js bundle --platform android --dev false --reset-cache --entry-file index.js --bundle-output C:\Users\Admin\Desktop\AwesomeProject3\output\index.android.bundle --assets-dest C:\Users\Admin\Desktop\AwesomeProject3\output\res --sourcemap-output C:\Users\Admin\Desktop\AwesomeProject3\output\sourcemaps\index.android.bundle.packager.map --minify false
+
+node_modules\hermes-engine\win64-bin\hermesc -emit-binary -out C:\Users\Admin\Desktop\AwesomeProject3\output\index.android.bundle.hbc C:\Users\Admin\Desktop\AwesomeProject3\output\index.android.bundle -O -output-source-map
